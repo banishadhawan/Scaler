@@ -1,0 +1,4250 @@
+[
+  {
+    "text": "Refund Bank Refund Bank",
+    "type": "COMPANY",
+    "start": 88,
+    "end": 115
+  },
+  {
+    "text": "Refund Bank Refund Bank",
+    "type": "COMPANY",
+    "start": 888,
+    "end": 915
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 1191,
+    "end": 1194
+  },
+  {
+    "text": "Off Pallod Farms",
+    "type": "PERSON",
+    "start": 1505,
+    "end": 1521
+  },
+  {
+    "text": "cs.connect@kshinternational.com",
+    "type": "EMAIL",
+    "start": 1638,
+    "end": 1669
+  },
+  {
+    "text": "91 20 45053237",
+    "type": "PHONE",
+    "start": 1686,
+    "end": 1700
+  },
+  {
+    "text": "kshinternational",
+    "type": "COMPANY",
+    "start": 1705,
+    "end": 1721
+  },
+  {
+    "text": "KANCHENJUNGA FAMILY TRUST AND WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED",
+    "type": "COMPANY",
+    "start": 1977,
+    "end": 2066
+  },
+  {
+    "text": "Disclosure Requirements",
+    "type": "PERSON",
+    "start": 2722,
+    "end": 2745
+  },
+  {
+    "text": "Retail Individual Investors,",
+    "type": "COMPANY",
+    "start": 3016,
+    "end": 3046
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 3594,
+    "end": 3617
+  },
+  {
+    "text": "Kirtane & Pandit",
+    "type": "COMPANY",
+    "start": 3747,
+    "end": 3763
+  },
+  {
+    "text": "5 each. The Floor",
+    "type": "ADDRESS",
+    "start": 4333,
+    "end": 4350
+  },
+  {
+    "text": "BSE Limited",
+    "type": "COMPANY",
+    "start": 7893,
+    "end": 7904
+  },
+  {
+    "text": "ksh.ipo@nuvama.com",
+    "type": "EMAIL",
+    "start": 8295,
+    "end": 8313
+  },
+  {
+    "text": "ICICI Securities Limited",
+    "type": "COMPANY",
+    "start": 8350,
+    "end": 8374
+  },
+  {
+    "text": "ksh@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 8416,
+    "end": 8439
+  },
+  {
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "type": "EMAIL",
+    "start": 8739,
+    "end": 8776
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 9441,
+    "end": 9444
+  },
+  {
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "type": "COMPANY",
+    "start": 9517,
+    "end": 9557
+  },
+  {
+    "text": "Bhandary Metal Extrusion Private Limited",
+    "type": "COMPANY",
+    "start": 9795,
+    "end": 9835
+  },
+  {
+    "text": "KSH International Private Limited",
+    "type": "COMPANY",
+    "start": 9845,
+    "end": 9878
+  },
+  {
+    "text": "KSH International Limited",
+    "type": "COMPANY",
+    "start": 11173,
+    "end": 11202
+  },
+  {
+    "text": "Central Processing Centre",
+    "type": "COMPANY",
+    "start": 11314,
+    "end": 11343
+  },
+  {
+    "text": "Registered Office :",
+    "type": "COMPANY",
+    "start": 11611,
+    "end": 11632
+  },
+  {
+    "text": "Off Pallod Farms",
+    "type": "PERSON",
+    "start": 11837,
+    "end": 11857
+  },
+  {
+    "text": "Sarthak Malvadkar",
+    "type": "PERSON",
+    "start": 11937,
+    "end": 11956
+  },
+  {
+    "text": "cs.connect@kshinternational.com",
+    "type": "EMAIL",
+    "start": 12062,
+    "end": 12093
+  },
+  {
+    "text": "kshinternational",
+    "type": "COMPANY",
+    "start": 12114,
+    "end": 12130
+  },
+  {
+    "text": "KANCHENJUNGA FAMILY TRUST AND WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED",
+    "type": "COMPANY",
+    "start": 12430,
+    "end": 12521
+  },
+  {
+    "text": "OF KSH INTERNATIONAL LIMITED",
+    "type": "COMPANY",
+    "start": 12651,
+    "end": 12685
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 17342,
+    "end": 17358
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 17459,
+    "end": 17473
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 17606,
+    "end": 17620
+  },
+  {
+    "text": "Anchor Investors)",
+    "type": "COMPANY",
+    "start": 19667,
+    "end": 19686
+  },
+  {
+    "text": "5 each. The Offer Price, Floor",
+    "type": "ADDRESS",
+    "start": 20521,
+    "end": 20551
+  },
+  {
+    "text": "Material Contracts",
+    "type": "PERSON",
+    "start": 24650,
+    "end": 24668
+  },
+  {
+    "text": "ksh.ipo@nuvama.com",
+    "type": "EMAIL",
+    "start": 24974,
+    "end": 24992
+  },
+  {
+    "text": "customerservice.mb@nuvama.com",
+    "type": "EMAIL",
+    "start": 25050,
+    "end": 25079
+  },
+  {
+    "text": "Lokesh Shah",
+    "type": "PERSON",
+    "start": 25099,
+    "end": 25112
+  },
+  {
+    "text": "Soumavo Sarkar",
+    "type": "PERSON",
+    "start": 25116,
+    "end": 25131
+  },
+  {
+    "text": "INM000013004 ICICI Securities Limited",
+    "type": "COMPANY",
+    "start": 25164,
+    "end": 25205
+  },
+  {
+    "text": "Appasaheb Marathe Marg",
+    "type": "PERSON",
+    "start": 25233,
+    "end": 25259
+  },
+  {
+    "text": "ksh@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 25349,
+    "end": 25372
+  },
+  {
+    "text": "customercare@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 25439,
+    "end": 25471
+  },
+  {
+    "text": "Kishan Rastogi",
+    "type": "PERSON",
+    "start": 25492,
+    "end": 25508
+  },
+  {
+    "text": "Abhijit Diwan",
+    "type": "PERSON",
+    "start": 25509,
+    "end": 25524
+  },
+  {
+    "text": "000011179",
+    "type": "PHONE",
+    "start": 25560,
+    "end": 25569
+  },
+  {
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "type": "EMAIL",
+    "start": 25824,
+    "end": 25861
+  },
+  {
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "type": "EMAIL",
+    "start": 25926,
+    "end": 25963
+  },
+  {
+    "text": "Shanti Gopalkrishnan",
+    "type": "PERSON",
+    "start": 25984,
+    "end": 26006
+  },
+  {
+    "text": "000004058",
+    "type": "PHONE",
+    "start": 26042,
+    "end": 26051
+  },
+  {
+    "text": "KSH International Limited,",
+    "type": "COMPANY",
+    "start": 28163,
+    "end": 28193
+  },
+  {
+    "text": "Off Pallod Farms",
+    "type": "PERSON",
+    "start": 28517,
+    "end": 28537
+  },
+  {
+    "text": "SCRA,",
+    "type": "COMPANY",
+    "start": 28864,
+    "end": 28869
+  },
+  {
+    "text": "Main Provisions",
+    "type": "PERSON",
+    "start": 28966,
+    "end": 28983
+  },
+  {
+    "text": "Indian Securities",
+    "type": "COMPANY",
+    "start": 29289,
+    "end": 29306
+  },
+  {
+    "text": "Material Developments",
+    "type": "PERSON",
+    "start": 29372,
+    "end": 29395
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 29644,
+    "end": 29647
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 30221,
+    "end": 30237
+  },
+  {
+    "text": "Kirtane & Pandit",
+    "type": "COMPANY",
+    "start": 30403,
+    "end": 30423
+  },
+  {
+    "text": "Magnet Winding Wires Market",
+    "type": "PERSON",
+    "start": 31022,
+    "end": 31049
+  },
+  {
+    "text": "Advisory Private Limited",
+    "type": "COMPANY",
+    "start": 31148,
+    "end": 31176
+  },
+  {
+    "text": "Advisory Private Limited,",
+    "type": "COMPANY",
+    "start": 31339,
+    "end": 31366
+  },
+  {
+    "text": "kshinternational",
+    "type": "COMPANY",
+    "start": 31514,
+    "end": 31530
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 31765,
+    "end": 31790
+  },
+  {
+    "text": "Sandesh Bhagwat",
+    "type": "PERSON",
+    "start": 31974,
+    "end": 31991
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 32030,
+    "end": 32046
+  },
+  {
+    "text": "Amod Joshi",
+    "type": "PERSON",
+    "start": 32209,
+    "end": 32221
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 32260,
+    "end": 32276
+  },
+  {
+    "text": "Sarthak Malvadkar",
+    "type": "PERSON",
+    "start": 32451,
+    "end": 32468
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 32525,
+    "end": 32541
+  },
+  {
+    "text": "Term Description Corporate Office",
+    "type": "COMPANY",
+    "start": 32626,
+    "end": 32660
+  },
+  {
+    "text": "Off Pallod Farms",
+    "type": "PERSON",
+    "start": 32750,
+    "end": 32768
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 33034,
+    "end": 33052
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 33617,
+    "end": 33620
+  },
+  {
+    "text": "Waterloo Motors Private Limited, KSH Project Management Services Private Limited,",
+    "type": "COMPANY",
+    "start": 34150,
+    "end": 34231
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 34234,
+    "end": 34237
+  },
+  {
+    "text": "Infra Park",
+    "type": "PERSON",
+    "start": 34240,
+    "end": 34252
+  },
+  {
+    "text": "Private Limited,",
+    "type": "COMPANY",
+    "start": 34259,
+    "end": 34277
+  },
+  {
+    "text": "KSH Infra Park VI Private Limited",
+    "type": "COMPANY",
+    "start": 34280,
+    "end": 34433
+  },
+  {
+    "text": "Electricals Private Limited,",
+    "type": "COMPANY",
+    "start": 34442,
+    "end": 34472
+  },
+  {
+    "text": "Waterloo Industrial Park I Private Limited",
+    "type": "COMPANY",
+    "start": 34473,
+    "end": 34516
+  },
+  {
+    "text": "Waterloo Industrial Park II Private Limited",
+    "type": "COMPANY",
+    "start": 34517,
+    "end": 34563
+  },
+  {
+    "text": "Waterloo Industrial Park III Private Limited",
+    "type": "COMPANY",
+    "start": 34566,
+    "end": 34611
+  },
+  {
+    "text": "Waterloo Industrial Park IV Private Limited",
+    "type": "COMPANY",
+    "start": 34612,
+    "end": 34656
+  },
+  {
+    "text": "Waterloo Industrial Park V Private Limited",
+    "type": "COMPANY",
+    "start": 34659,
+    "end": 34702
+  },
+  {
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "type": "COMPANY",
+    "start": 34703,
+    "end": 34747
+  },
+  {
+    "text": "Waterloo Industrial Park VIII Private Limited",
+    "type": "COMPANY",
+    "start": 34750,
+    "end": 34796
+  },
+  {
+    "text": "Waterloo Industrial Park IX Private Limited",
+    "type": "COMPANY",
+    "start": 34797,
+    "end": 34841
+  },
+  {
+    "text": "Waterloo Industrial Park IX B Private Limited",
+    "type": "COMPANY",
+    "start": 34844,
+    "end": 34902
+  },
+  {
+    "text": "Waterloo Industrial Park IX A Private Limited",
+    "type": "COMPANY",
+    "start": 34905,
+    "end": 34961
+  },
+  {
+    "text": "KSH Infra Park IV Private Limited",
+    "type": "COMPANY",
+    "start": 34968,
+    "end": 35011
+  },
+  {
+    "text": "Lalit Muljibhai Sarvaiya",
+    "type": "PERSON",
+    "start": 35313,
+    "end": 35341
+  },
+  {
+    "text": "Industry Data",
+    "type": "COMPANY",
+    "start": 35379,
+    "end": 35394
+  },
+  {
+    "text": "Advisory Private Limited",
+    "type": "COMPANY",
+    "start": 35497,
+    "end": 35523
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 35730,
+    "end": 35750
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 36021,
+    "end": 36037
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 36163,
+    "end": 36182
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 37184,
+    "end": 37200
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 37486,
+    "end": 37509
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 37900,
+    "end": 37921
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 37923,
+    "end": 37944
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 37948,
+    "end": 37970
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 37977,
+    "end": 38000
+  },
+  {
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "type": "COMPANY",
+    "start": 38182,
+    "end": 38229
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 38292,
+    "end": 38315
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 38319,
+    "end": 38342
+  },
+  {
+    "text": "Annapurna Family Trust Registered Office",
+    "type": "COMPANY",
+    "start": 38780,
+    "end": 38823
+  },
+  {
+    "text": "Guidance Note",
+    "type": "PERSON",
+    "start": 40015,
+    "end": 40030
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 40424,
+    "end": 40440
+  },
+  {
+    "text": "Senior Management/",
+    "type": "COMPANY",
+    "start": 41280,
+    "end": 41300
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 41441,
+    "end": 41457
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 41732,
+    "end": 41752
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 42527,
+    "end": 42550
+  },
+  {
+    "text": "Designated Intermediary",
+    "type": "PERSON",
+    "start": 42917,
+    "end": 42940
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 44735,
+    "end": 44754
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 46114,
+    "end": 46130
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 46231,
+    "end": 46245
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 46378,
+    "end": 46394
+  },
+  {
+    "text": "Form An",
+    "type": "PERSON",
+    "start": 47405,
+    "end": 47412
+  },
+  {
+    "text": "Escrow Collection Bank,",
+    "type": "COMPANY",
+    "start": 47725,
+    "end": 47750
+  },
+  {
+    "text": "Refund Bank,",
+    "type": "COMPANY",
+    "start": 47755,
+    "end": 47767
+  },
+  {
+    "text": "Bid An",
+    "type": "PERSON",
+    "start": 48010,
+    "end": 48016
+  },
+  {
+    "text": "Bid Lot",
+    "type": "PERSON",
+    "start": 49246,
+    "end": 49255
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 49490,
+    "end": 49507
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 50958,
+    "end": 50975
+  },
+  {
+    "text": "Term Description",
+    "type": "PERSON",
+    "start": 51207,
+    "end": 51223
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 51599,
+    "end": 51616
+  },
+  {
+    "text": "Specified Locations",
+    "type": "PERSON",
+    "start": 52772,
+    "end": 52791
+  },
+  {
+    "text": "Broker Centres",
+    "type": "PERSON",
+    "start": 52807,
+    "end": 52821
+  },
+  {
+    "text": "Nuvama Wealth Management Limited",
+    "type": "COMPANY",
+    "start": 53185,
+    "end": 53223
+  },
+  {
+    "text": "ICICI Securities Limited",
+    "type": "COMPANY",
+    "start": 53230,
+    "end": 53254
+  },
+  {
+    "text": "Allocation Note Notice",
+    "type": "PERSON",
+    "start": 53761,
+    "end": 53785
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 53843,
+    "end": 53860
+  },
+  {
+    "text": "Bid Amounts",
+    "type": "PERSON",
+    "start": 54701,
+    "end": 54712
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 54718,
+    "end": 54735
+  },
+  {
+    "text": "Anchor Investors)",
+    "type": "COMPANY",
+    "start": 56033,
+    "end": 56050
+  },
+  {
+    "text": "Locations Such",
+    "type": "PERSON",
+    "start": 56366,
+    "end": 56380
+  },
+  {
+    "text": "Anchor Investors)",
+    "type": "COMPANY",
+    "start": 56429,
+    "end": 56446
+  },
+  {
+    "text": "Term Description In",
+    "type": "PERSON",
+    "start": 57539,
+    "end": 57558
+  },
+  {
+    "text": "Locations Such",
+    "type": "PERSON",
+    "start": 58110,
+    "end": 58124
+  },
+  {
+    "text": "Escrow Collection Bank",
+    "type": "COMPANY",
+    "start": 59772,
+    "end": 59794
+  },
+  {
+    "text": "Bid Escrow Collection Bank The bank,",
+    "type": "COMPANY",
+    "start": 59965,
+    "end": 60006
+  },
+  {
+    "text": "HDFC Bank Limited",
+    "type": "COMPANY",
+    "start": 60239,
+    "end": 60256
+  },
+  {
+    "text": "Revision Form",
+    "type": "PERSON",
+    "start": 60347,
+    "end": 60360
+  },
+  {
+    "text": "Fraudulent Borrower Fraudulent",
+    "type": "PERSON",
+    "start": 60762,
+    "end": 60794
+  },
+  {
+    "text": "Fugitive Economic Offender An",
+    "type": "PERSON",
+    "start": 61179,
+    "end": 61212
+  },
+  {
+    "text": "Development Authority",
+    "type": "COMPANY",
+    "start": 62033,
+    "end": 62056
+  },
+  {
+    "text": "CARE Ratings Limited",
+    "type": "COMPANY",
+    "start": 62246,
+    "end": 62286
+  },
+  {
+    "text": "Anchor Investors Non-Institutional Investors/",
+    "type": "COMPANY",
+    "start": 63302,
+    "end": 63350
+  },
+  {
+    "text": "Non-Institutional Investors,",
+    "type": "COMPANY",
+    "start": 63746,
+    "end": 63774
+  },
+  {
+    "text": "Term Description",
+    "type": "PERSON",
+    "start": 64031,
+    "end": 64047
+  },
+  {
+    "text": "Non- Institutional Investors,",
+    "type": "COMPANY",
+    "start": 64284,
+    "end": 64315
+  },
+  {
+    "text": "FVCIs Nuvama Nuvama Wealth Management Limited",
+    "type": "COMPANY",
+    "start": 64525,
+    "end": 64575
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 65602,
+    "end": 65625
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 65725,
+    "end": 65744
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 65859,
+    "end": 65882
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 66011,
+    "end": 66033
+  },
+  {
+    "text": "Pension Fund",
+    "type": "COMPANY",
+    "start": 67512,
+    "end": 67526
+  },
+  {
+    "text": "Development Authority",
+    "type": "COMPANY",
+    "start": 67548,
+    "end": 67571
+  },
+  {
+    "text": "Pension Fund",
+    "type": "COMPANY",
+    "start": 67610,
+    "end": 67624
+  },
+  {
+    "text": "Development Authority",
+    "type": "COMPANY",
+    "start": 67646,
+    "end": 67669
+  },
+  {
+    "text": "Bid Lot",
+    "type": "PERSON",
+    "start": 68111,
+    "end": 68120
+  },
+  {
+    "text": "Bid Amounts",
+    "type": "PERSON",
+    "start": 69542,
+    "end": 69553
+  },
+  {
+    "text": "ICICI Bank Limited",
+    "type": "COMPANY",
+    "start": 69636,
+    "end": 69654
+  },
+  {
+    "text": "Anchor Investors)",
+    "type": "COMPANY",
+    "start": 70535,
+    "end": 70552
+  },
+  {
+    "text": "Refund Bank,",
+    "type": "COMPANY",
+    "start": 71521,
+    "end": 71535
+  },
+  {
+    "text": "Bank The bank",
+    "type": "COMPANY",
+    "start": 71674,
+    "end": 71689
+  },
+  {
+    "text": "HDFC Bank Limited",
+    "type": "COMPANY",
+    "start": 71862,
+    "end": 71879
+  },
+  {
+    "text": "Revision Form",
+    "type": "PERSON",
+    "start": 73737,
+    "end": 73750
+  },
+  {
+    "text": "HDFC Bank Limited",
+    "type": "COMPANY",
+    "start": 76221,
+    "end": 76238
+  },
+  {
+    "text": "ICICI Bank Limited",
+    "type": "COMPANY",
+    "start": 76243,
+    "end": 76261
+  },
+  {
+    "text": "BSE Limited",
+    "type": "COMPANY",
+    "start": 76296,
+    "end": 76309
+  },
+  {
+    "text": "Nuvama Wealth Management Limited",
+    "type": "COMPANY",
+    "start": 76939,
+    "end": 76977
+  },
+  {
+    "text": "ICICI Securities Limited",
+    "type": "COMPANY",
+    "start": 76984,
+    "end": 77012
+  },
+  {
+    "text": "NPCI",
+    "type": "COMPANY",
+    "start": 79774,
+    "end": 79778
+  },
+  {
+    "text": "Circulars Conventional",
+    "type": "PERSON",
+    "start": 81444,
+    "end": 81466
+  },
+  {
+    "text": "Abbreviations Term Description AIF Alternate Investment Fund",
+    "type": "COMPANY",
+    "start": 81499,
+    "end": 81562
+  },
+  {
+    "text": "BSE BSE Limited",
+    "type": "COMPANY",
+    "start": 81586,
+    "end": 81603
+  },
+  {
+    "text": "Service Tax Appellate Tribunal",
+    "type": "COMPANY",
+    "start": 82550,
+    "end": 82586
+  },
+  {
+    "text": "Identification Number",
+    "type": "PERSON",
+    "start": 83184,
+    "end": 83206
+  },
+  {
+    "text": "Lok Sabha",
+    "type": "PERSON",
+    "start": 84146,
+    "end": 84157
+  },
+  {
+    "text": "IATF International",
+    "type": "COMPANY",
+    "start": 84998,
+    "end": 85016
+  },
+  {
+    "text": "ICAI The Institute",
+    "type": "COMPANY",
+    "start": 85080,
+    "end": 85100
+  },
+  {
+    "text": "ISO International Organization",
+    "type": "COMPANY",
+    "start": 86007,
+    "end": 86039
+  },
+  {
+    "text": "FEMA NPCI National Payments Corporation",
+    "type": "COMPANY",
+    "start": 86432,
+    "end": 86475
+  },
+  {
+    "text": "Overseas Citizen",
+    "type": "PERSON",
+    "start": 86792,
+    "end": 86808
+  },
+  {
+    "text": "NSDL National Securities Depository Limited",
+    "type": "COMPANY",
+    "start": 87049,
+    "end": 87097
+  },
+  {
+    "text": "FEMA.",
+    "type": "COMPANY",
+    "start": 87666,
+    "end": 87671
+  },
+  {
+    "text": "Overseas Citizen",
+    "type": "PERSON",
+    "start": 87774,
+    "end": 87792
+  },
+  {
+    "text": "I.T.",
+    "type": "COMPANY",
+    "start": 87899,
+    "end": 87903
+  },
+  {
+    "text": "RBI Reserve Bank",
+    "type": "COMPANY",
+    "start": 87931,
+    "end": 87949
+  },
+  {
+    "text": "U.S. Securities",
+    "type": "COMPANY",
+    "start": 88008,
+    "end": 88025
+  },
+  {
+    "text": "Indian Rupees RBI Reserve Bank",
+    "type": "COMPANY",
+    "start": 88059,
+    "end": 88092
+  },
+  {
+    "text": "SCRA Securities",
+    "type": "COMPANY",
+    "start": 88143,
+    "end": 88158
+  },
+  {
+    "text": "SCRR Securities",
+    "type": "COMPANY",
+    "start": 88200,
+    "end": 88215
+  },
+  {
+    "text": "Disclosure Requirements",
+    "type": "PERSON",
+    "start": 89232,
+    "end": 89257
+  },
+  {
+    "text": "Listing Obligations",
+    "type": "PERSON",
+    "start": 89357,
+    "end": 89378
+  },
+  {
+    "text": "Disclosure Requirements",
+    "type": "PERSON",
+    "start": 89387,
+    "end": 89412
+  },
+  {
+    "text": "Substantial Acquisition",
+    "type": "PERSON",
+    "start": 89940,
+    "end": 89965
+  },
+  {
+    "text": "U.S. Securities",
+    "type": "COMPANY",
+    "start": 90223,
+    "end": 90240
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 90379,
+    "end": 90394
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 90418,
+    "end": 90433
+  },
+  {
+    "text": "United States Dollars",
+    "type": "PERSON",
+    "start": 90488,
+    "end": 90512
+  },
+  {
+    "text": "Three Wheelers",
+    "type": "PERSON",
+    "start": 90761,
+    "end": 90777
+  },
+  {
+    "text": "Four Wheelers",
+    "type": "PERSON",
+    "start": 90781,
+    "end": 90795
+  },
+  {
+    "text": "Advance Authorization Scheme",
+    "type": "PERSON",
+    "start": 90800,
+    "end": 90831
+  },
+  {
+    "text": "Advanced Chemistry Cell",
+    "type": "PERSON",
+    "start": 90836,
+    "end": 90863
+  },
+  {
+    "text": "Atal Mission",
+    "type": "PERSON",
+    "start": 90914,
+    "end": 90928
+  },
+  {
+    "text": "Urban Transformation",
+    "type": "PERSON",
+    "start": 90956,
+    "end": 90977
+  },
+  {
+    "text": "Duty BESS Battery",
+    "type": "PERSON",
+    "start": 90999,
+    "end": 91016
+  },
+  {
+    "text": "Brushless Direct Current",
+    "type": "PERSON",
+    "start": 91086,
+    "end": 91113
+  },
+  {
+    "text": "CEA Central Electricity Authority CERC Central Electricity Regulatory Commission",
+    "type": "COMPANY",
+    "start": 91165,
+    "end": 91254
+  },
+  {
+    "text": "Circuit Kilometers",
+    "type": "PERSON",
+    "start": 91259,
+    "end": 91278
+  },
+  {
+    "text": "Continuous Transposed Conductors",
+    "type": "PERSON",
+    "start": 91283,
+    "end": 91318
+  },
+  {
+    "text": "Capacity Utilization Factor",
+    "type": "PERSON",
+    "start": 91323,
+    "end": 91353
+  },
+  {
+    "text": "Deen Dayal Upadhyaya Gram Jyoti DFI Development",
+    "type": "COMPANY",
+    "start": 91361,
+    "end": 91416
+  },
+  {
+    "text": "Free Import Authorisation",
+    "type": "PERSON",
+    "start": 91450,
+    "end": 91479
+  },
+  {
+    "text": "Diesel Generators",
+    "type": "PERSON",
+    "start": 91483,
+    "end": 91501
+  },
+  {
+    "text": "Term Abbreviations",
+    "type": "PERSON",
+    "start": 91585,
+    "end": 91603
+  },
+  {
+    "text": "Electric Vehicles",
+    "type": "PERSON",
+    "start": 91700,
+    "end": 91719
+  },
+  {
+    "text": "Faster Adoption",
+    "type": "PERSON",
+    "start": 91725,
+    "end": 91742
+  },
+  {
+    "text": "Electric Vehicles",
+    "type": "PERSON",
+    "start": 91787,
+    "end": 91805
+  },
+  {
+    "text": "Final Estimates",
+    "type": "PERSON",
+    "start": 91809,
+    "end": 91825
+  },
+  {
+    "text": "Fractional Horsepower",
+    "type": "PERSON",
+    "start": 91830,
+    "end": 91853
+  },
+  {
+    "text": "First Revised Estimates",
+    "type": "PERSON",
+    "start": 91858,
+    "end": 91885
+  },
+  {
+    "text": "Fuel Supply Agreements",
+    "type": "PERSON",
+    "start": 91890,
+    "end": 91916
+  },
+  {
+    "text": "High Tension",
+    "type": "PERSON",
+    "start": 92081,
+    "end": 92094
+  },
+  {
+    "text": "Air Conditioning HVDC High Voltage Direct Current IATF International",
+    "type": "COMPANY",
+    "start": 92132,
+    "end": 92208
+  },
+  {
+    "text": "Internal Combustion Engine IEA International Energy Agency",
+    "type": "COMPANY",
+    "start": 92241,
+    "end": 92305
+  },
+  {
+    "text": "Extra Budgetary Resources IEC International Electrotechnical Commission",
+    "type": "COMPANY",
+    "start": 92328,
+    "end": 92406
+  },
+  {
+    "text": "Industrial Production IMF International Monetary Fund IPDS Integrated Power Development",
+    "type": "COMPANY",
+    "start": 92422,
+    "end": 92527
+  },
+  {
+    "text": "Kilovolt LPG Liquid Propane Gas LT Low Tension MOSPI Ministry",
+    "type": "COMPANY",
+    "start": 92572,
+    "end": 92638
+  },
+  {
+    "text": "Programme Implementation MVA Mega Volt- Amperes MW Megawatt MWW Magnet Winding Wires NEMMP National Electric Mobility Mission Plan NEP National Electricity",
+    "type": "COMPANY",
+    "start": 92665,
+    "end": 92836
+  },
+  {
+    "text": "Private Final Consumption Expenditure",
+    "type": "PERSON",
+    "start": 93020,
+    "end": 93063
+  },
+  {
+    "text": "Production Linked Incentives",
+    "type": "PERSON",
+    "start": 93068,
+    "end": 93099
+  },
+  {
+    "text": "Pradhan Mantri Awas Yojana",
+    "type": "PERSON",
+    "start": 93105,
+    "end": 93136
+  },
+  {
+    "text": "Pradhan Mantri Kisan Urja Suraksha",
+    "type": "PERSON",
+    "start": 93147,
+    "end": 93189
+  },
+  {
+    "text": "Utthaan Mahabhiyan Yojana",
+    "type": "PERSON",
+    "start": 93199,
+    "end": 93227
+  },
+  {
+    "text": "Photo Voltaic",
+    "type": "PERSON",
+    "start": 93231,
+    "end": 93246
+  },
+  {
+    "text": "Renewable Energy Resources",
+    "type": "PERSON",
+    "start": 93402,
+    "end": 93432
+  },
+  {
+    "text": "Exported Products",
+    "type": "PERSON",
+    "start": 93519,
+    "end": 93537
+  },
+  {
+    "text": "Hazardous Substances",
+    "type": "PERSON",
+    "start": 93560,
+    "end": 93582
+  },
+  {
+    "text": "Renewable Purchase Obligations",
+    "type": "PERSON",
+    "start": 93587,
+    "end": 93621
+  },
+  {
+    "text": "SAE Second Advance Estimates SECI Solar Energy Corporation",
+    "type": "COMPANY",
+    "start": 93663,
+    "end": 93729
+  },
+  {
+    "text": "Export Scheme",
+    "type": "PERSON",
+    "start": 93788,
+    "end": 93802
+  },
+  {
+    "text": "United Kingdom",
+    "type": "PERSON",
+    "start": 93806,
+    "end": 93821
+  },
+  {
+    "text": "World Economic Outlook",
+    "type": "PERSON",
+    "start": 93882,
+    "end": 93907
+  },
+  {
+    "text": "Operating Metrics",
+    "type": "PERSON",
+    "start": 93961,
+    "end": 93980
+  },
+  {
+    "text": "Margin PAT Margin",
+    "type": "PERSON",
+    "start": 96313,
+    "end": 96332
+  },
+  {
+    "text": "Certain Conventions All",
+    "type": "PERSON",
+    "start": 98127,
+    "end": 98152
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 98551,
+    "end": 98564
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 98585,
+    "end": 98600
+  },
+  {
+    "text": "EU”",
+    "type": "COMPANY",
+    "start": 98699,
+    "end": 98703
+  },
+  {
+    "text": "European Union",
+    "type": "PERSON",
+    "start": 98722,
+    "end": 98736
+  },
+  {
+    "text": "Guidance Note",
+    "type": "PERSON",
+    "start": 101062,
+    "end": 101075
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 102203,
+    "end": 102218
+  },
+  {
+    "text": "Market Data Unless",
+    "type": "PERSON",
+    "start": 106896,
+    "end": 106916
+  },
+  {
+    "text": "Magnet Winding Wires Market",
+    "type": "PERSON",
+    "start": 107078,
+    "end": 107105
+  },
+  {
+    "text": "Advisory Private Limited",
+    "type": "COMPANY",
+    "start": 107191,
+    "end": 107215
+  },
+  {
+    "text": "kshinternational",
+    "type": "COMPANY",
+    "start": 107550,
+    "end": 107566
+  },
+  {
+    "text": "Senior Management,",
+    "type": "COMPANY",
+    "start": 108206,
+    "end": 108224
+  },
+  {
+    "text": "Presentation All",
+    "type": "PERSON",
+    "start": 111053,
+    "end": 111069
+  },
+  {
+    "text": "Indian Rupees",
+    "type": "PERSON",
+    "start": 111150,
+    "end": 111165
+  },
+  {
+    "text": "United States Dollars",
+    "type": "PERSON",
+    "start": 111283,
+    "end": 111308
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 111351,
+    "end": 111366
+  },
+  {
+    "text": "European Union;",
+    "type": "COMPANY",
+    "start": 111464,
+    "end": 111481
+  },
+  {
+    "text": "Swedish Krona",
+    "type": "PERSON",
+    "start": 111508,
+    "end": 111523
+  },
+  {
+    "text": "Indian Rupees",
+    "type": "PERSON",
+    "start": 112963,
+    "end": 112976
+  },
+  {
+    "text": "Indian Rupees",
+    "type": "PERSON",
+    "start": 113232,
+    "end": 113247
+  },
+  {
+    "text": "Currency As",
+    "type": "PERSON",
+    "start": 113461,
+    "end": 113472
+  },
+  {
+    "text": "Material Developments",
+    "type": "PERSON",
+    "start": 122002,
+    "end": 122023
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 123830,
+    "end": 123849
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 123851,
+    "end": 123870
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 123872,
+    "end": 123890
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 123892,
+    "end": 123911
+  },
+  {
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "type": "COMPANY",
+    "start": 124085,
+    "end": 124128
+  },
+  {
+    "text": "Statutory Disclosures – Authority",
+    "type": "COMPANY",
+    "start": 125670,
+    "end": 125703
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 127865,
+    "end": 127890
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 127922,
+    "end": 127944
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 127975,
+    "end": 127997
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 128029,
+    "end": 128050
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 128082,
+    "end": 128105
+  },
+  {
+    "text": "Maithili Rajesh Hegde",
+    "type": "PERSON",
+    "start": 128492,
+    "end": 128517
+  },
+  {
+    "text": "Katyayani Balasubramanian",
+    "type": "PERSON",
+    "start": 128544,
+    "end": 128571
+  },
+  {
+    "text": "Name Pre",
+    "type": "PERSON",
+    "start": 129567,
+    "end": 129575
+  },
+  {
+    "text": "Name Pre",
+    "type": "PERSON",
+    "start": 130163,
+    "end": 130171
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 130682,
+    "end": 130701
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 130737,
+    "end": 130756
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 130793,
+    "end": 130811
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 130848,
+    "end": 130871
+  },
+  {
+    "text": "Maithili Rajesh Hegde",
+    "type": "PERSON",
+    "start": 131286,
+    "end": 131307
+  },
+  {
+    "text": "Katyayani Balasubramanian",
+    "type": "PERSON",
+    "start": 131338,
+    "end": 131363
+  },
+  {
+    "text": "Salil Ajay Bhargava",
+    "type": "PERSON",
+    "start": 131587,
+    "end": 131610
+  },
+  {
+    "text": "Jabeen Ajay Menon",
+    "type": "PERSON",
+    "start": 131640,
+    "end": 131661
+  },
+  {
+    "text": "Ajay Menon",
+    "type": "PERSON",
+    "start": 131694,
+    "end": 131705
+  },
+  {
+    "text": "Sunil Nagayya Shetty",
+    "type": "PERSON",
+    "start": 131738,
+    "end": 131758
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 137084,
+    "end": 137105
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 137107,
+    "end": 137126
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 137128,
+    "end": 137146
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 137151,
+    "end": 137170
+  },
+  {
+    "text": "Sandesh Bhagwat",
+    "type": "PERSON",
+    "start": 137367,
+    "end": 137384
+  },
+  {
+    "text": "Amod Joshi",
+    "type": "PERSON",
+    "start": 137395,
+    "end": 137407
+  },
+  {
+    "text": "Sarthak Malvadkar",
+    "type": "PERSON",
+    "start": 137418,
+    "end": 137437
+  },
+  {
+    "text": "Ganesh Prasad",
+    "type": "PERSON",
+    "start": 137482,
+    "end": 137497
+  },
+  {
+    "text": "Material Developments",
+    "type": "PERSON",
+    "start": 137921,
+    "end": 137944
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 140379,
+    "end": 140391
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 140473,
+    "end": 140485
+  },
+  {
+    "text": "Open bank",
+    "type": "COMPANY",
+    "start": 143466,
+    "end": 143477
+  },
+  {
+    "text": "Waterloo Motors",
+    "type": "COMPANY",
+    "start": 144572,
+    "end": 144587
+  },
+  {
+    "text": "KSH Distriparks Private Limited",
+    "type": "COMPANY",
+    "start": 144695,
+    "end": 144726
+  },
+  {
+    "text": "Parijat Foundation",
+    "type": "COMPANY",
+    "start": 144804,
+    "end": 144822
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 144913,
+    "end": 144916
+  },
+  {
+    "text": "Infra Park",
+    "type": "PERSON",
+    "start": 144917,
+    "end": 144928
+  },
+  {
+    "text": "Private Limited",
+    "type": "COMPANY",
+    "start": 144935,
+    "end": 144950
+  },
+  {
+    "text": "Share Based Payment Expense Share Based Payment Expense",
+    "type": "PERSON",
+    "start": 145297,
+    "end": 145352
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 147156,
+    "end": 147181
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 147377,
+    "end": 147399
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 147417,
+    "end": 147439
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 147458,
+    "end": 147479
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 147498,
+    "end": 147521
+  },
+  {
+    "text": "Kirtane & Pandit",
+    "type": "COMPANY",
+    "start": 148531,
+    "end": 148551
+  },
+  {
+    "text": "Kirtane & Pandit",
+    "type": "COMPANY",
+    "start": 149532,
+    "end": 149552
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 150465,
+    "end": 150490
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 150509,
+    "end": 150531
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 150549,
+    "end": 150571
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 150590,
+    "end": 150611
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 150630,
+    "end": 150653
+  },
+  {
+    "text": "Kirtane & Pandit",
+    "type": "COMPANY",
+    "start": 151096,
+    "end": 151116
+  },
+  {
+    "text": "*^ & February",
+    "type": "COMPANY",
+    "start": 152157,
+    "end": 152170
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 152201,
+    "end": 152223
+  },
+  {
+    "text": "*^ & February",
+    "type": "COMPANY",
+    "start": 152224,
+    "end": 152237
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 152267,
+    "end": 152289
+  },
+  {
+    "text": "*^ & February",
+    "type": "COMPANY",
+    "start": 152290,
+    "end": 152303
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 152333,
+    "end": 152354
+  },
+  {
+    "text": "*^ & February",
+    "type": "COMPANY",
+    "start": 152355,
+    "end": 152368
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 152398,
+    "end": 152421
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 152462,
+    "end": 152485
+  },
+  {
+    "text": "^ & February",
+    "type": "COMPANY",
+    "start": 152486,
+    "end": 152498
+  },
+  {
+    "text": "Trust & May",
+    "type": "COMPANY",
+    "start": 152542,
+    "end": 152553
+  },
+  {
+    "text": "Trust & May",
+    "type": "COMPANY",
+    "start": 152594,
+    "end": 152605
+  },
+  {
+    "text": "Trust & May",
+    "type": "COMPANY",
+    "start": 152646,
+    "end": 152657
+  },
+  {
+    "text": "Trust & May",
+    "type": "COMPANY",
+    "start": 152697,
+    "end": 152708
+  },
+  {
+    "text": "Trust & May",
+    "type": "COMPANY",
+    "start": 152749,
+    "end": 152760
+  },
+  {
+    "text": "Trust & May",
+    "type": "COMPANY",
+    "start": 152805,
+    "end": 152818
+  },
+  {
+    "text": "Maithili Rajesh Hegde",
+    "type": "PERSON",
+    "start": 152857,
+    "end": 152882
+  },
+  {
+    "text": "Maithili Rajesh Hegde",
+    "type": "PERSON",
+    "start": 152923,
+    "end": 152948
+  },
+  {
+    "text": "^ & February",
+    "type": "COMPANY",
+    "start": 152949,
+    "end": 152961
+  },
+  {
+    "text": "Katyayani Balasubramanian",
+    "type": "PERSON",
+    "start": 152984,
+    "end": 153011
+  },
+  {
+    "text": "Katyayani Balasubramanian",
+    "type": "PERSON",
+    "start": 153052,
+    "end": 153079
+  },
+  {
+    "text": "^ & February",
+    "type": "COMPANY",
+    "start": 153082,
+    "end": 153094
+  },
+  {
+    "text": "Kirtane & Pandit",
+    "type": "COMPANY",
+    "start": 153141,
+    "end": 153161
+  },
+  {
+    "text": "An investment",
+    "type": "COMPANY",
+    "start": 156033,
+    "end": 156048
+  },
+  {
+    "text": "Material Developments",
+    "type": "PERSON",
+    "start": 158268,
+    "end": 158289
+  },
+  {
+    "text": "Magnet Winding Wires Market",
+    "type": "PERSON",
+    "start": 160318,
+    "end": 160351
+  },
+  {
+    "text": "Care Analytics",
+    "type": "PERSON",
+    "start": 160448,
+    "end": 160462
+  },
+  {
+    "text": "Advisory Private Limited",
+    "type": "COMPANY",
+    "start": 160467,
+    "end": 160491
+  },
+  {
+    "text": "Market Data",
+    "type": "PERSON",
+    "start": 161376,
+    "end": 161389
+  },
+  {
+    "text": "S. N o.",
+    "type": "COMPANY",
+    "start": 162952,
+    "end": 162961
+  },
+  {
+    "text": "Al-Ahleia Switchgear Co., Bharat Bijlee Limited;",
+    "type": "COMPANY",
+    "start": 164287,
+    "end": 164335
+  },
+  {
+    "text": "Industrial Solutions Limited;",
+    "type": "COMPANY",
+    "start": 164349,
+    "end": 164378
+  },
+  {
+    "text": "Emirates Transformer",
+    "type": "PERSON",
+    "start": 164379,
+    "end": 164456
+  },
+  {
+    "text": "Virginia Transformer Corporation.",
+    "type": "COMPANY",
+    "start": 164557,
+    "end": 164590
+  },
+  {
+    "text": "Material Developments",
+    "type": "PERSON",
+    "start": 165915,
+    "end": 165938
+  },
+  {
+    "text": "Ahlstrom Sweden",
+    "type": "PERSON",
+    "start": 171418,
+    "end": 171435
+  },
+  {
+    "text": "Cindus Corporation;",
+    "type": "COMPANY",
+    "start": 171444,
+    "end": 171465
+  },
+  {
+    "text": "Hindalco Industries Limited",
+    "type": "COMPANY",
+    "start": 171500,
+    "end": 171531
+  },
+  {
+    "text": "Polycom Associates",
+    "type": "PERSON",
+    "start": 171535,
+    "end": 171555
+  },
+  {
+    "text": "Savli Copper Products Private Limited",
+    "type": "COMPANY",
+    "start": 171559,
+    "end": 171604
+  },
+  {
+    "text": "Union Copper Rod LLC",
+    "type": "COMPANY",
+    "start": 171608,
+    "end": 171632
+  },
+  {
+    "text": "Vedanta Limited",
+    "type": "COMPANY",
+    "start": 171642,
+    "end": 171657
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 183627,
+    "end": 183639
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 183743,
+    "end": 183757
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 183952,
+    "end": 183964
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 184518,
+    "end": 184530
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 185407,
+    "end": 185421
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 185940,
+    "end": 185954
+  },
+  {
+    "text": "Power Sector",
+    "type": "PERSON",
+    "start": 186306,
+    "end": 186320
+  },
+  {
+    "text": "Products Three",
+    "type": "PERSON",
+    "start": 187398,
+    "end": 187412
+  },
+  {
+    "text": "Capacity Utilization",
+    "type": "PERSON",
+    "start": 192959,
+    "end": 192979
+  },
+  {
+    "text": "KSH International",
+    "type": "COMPANY",
+    "start": 195241,
+    "end": 195258
+  },
+  {
+    "text": "Our Business – Human Resources",
+    "type": "COMPANY",
+    "start": 195299,
+    "end": 195329
+  },
+  {
+    "text": "Quality Control",
+    "type": "PERSON",
+    "start": 204344,
+    "end": 204361
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 208670,
+    "end": 208683
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 208936,
+    "end": 208951
+  },
+  {
+    "text": "United States",
+    "type": "PERSON",
+    "start": 209139,
+    "end": 209154
+  },
+  {
+    "text": "Cash Flows",
+    "type": "PERSON",
+    "start": 211676,
+    "end": 211686
+  },
+  {
+    "text": "Other Approvals",
+    "type": "PERSON",
+    "start": 212925,
+    "end": 212940
+  },
+  {
+    "text": "Maharashtra Sales Tax Department",
+    "type": "COMPANY",
+    "start": 214620,
+    "end": 214652
+  },
+  {
+    "text": "KSH International Private Limited”.",
+    "type": "COMPANY",
+    "start": 214861,
+    "end": 214897
+  },
+  {
+    "text": "Other Approvals",
+    "type": "PERSON",
+    "start": 215153,
+    "end": 215168
+  },
+  {
+    "text": "Material Approvals",
+    "type": "PERSON",
+    "start": 215240,
+    "end": 215260
+  },
+  {
+    "text": "Other Approvals",
+    "type": "PERSON",
+    "start": 215362,
+    "end": 215379
+  },
+  {
+    "text": "Material Approvals",
+    "type": "PERSON",
+    "start": 215461,
+    "end": 215481
+  },
+  {
+    "text": "Other Approvals",
+    "type": "PERSON",
+    "start": 216252,
+    "end": 216267
+  },
+  {
+    "text": "Risk Factors – Our insurance",
+    "type": "COMPANY",
+    "start": 217624,
+    "end": 217654
+  },
+  {
+    "text": "Bhandary Metal Extrusion Private Limited”",
+    "type": "COMPANY",
+    "start": 220517,
+    "end": 220558
+  },
+  {
+    "text": "KSH International Private Limited",
+    "type": "COMPANY",
+    "start": 220565,
+    "end": 220598
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 220708,
+    "end": 220727
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 220853,
+    "end": 220871
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 220995,
+    "end": 221015
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 221608,
+    "end": 221622
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 221768,
+    "end": 221782
+  },
+  {
+    "text": "Karunakar Bhandary",
+    "type": "PERSON",
+    "start": 221792,
+    "end": 221810
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 221931,
+    "end": 221943
+  },
+  {
+    "text": "Jayaram Shetty",
+    "type": "PERSON",
+    "start": 221949,
+    "end": 221964
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 222065,
+    "end": 222077
+  },
+  {
+    "text": "Karunakar Hegde",
+    "type": "PERSON",
+    "start": 222081,
+    "end": 222097
+  },
+  {
+    "text": "Karunakar Hegde",
+    "type": "PERSON",
+    "start": 222343,
+    "end": 222358
+  },
+  {
+    "text": "Karunakar Hegde",
+    "type": "PERSON",
+    "start": 222370,
+    "end": 222385
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 222489,
+    "end": 222508
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 222645,
+    "end": 222659
+  },
+  {
+    "text": "Shubhkamal Leasing",
+    "type": "PERSON",
+    "start": 222667,
+    "end": 222685
+  },
+  {
+    "text": "Investment Private Limited",
+    "type": "COMPANY",
+    "start": 222690,
+    "end": 222716
+  },
+  {
+    "text": "Rohit Hegde",
+    "type": "PERSON",
+    "start": 222830,
+    "end": 222843
+  },
+  {
+    "text": "Karunakar Hegde",
+    "type": "PERSON",
+    "start": 222853,
+    "end": 222868
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 222973,
+    "end": 222992
+  },
+  {
+    "text": "Shubhkamal Leasing",
+    "type": "PERSON",
+    "start": 222998,
+    "end": 223016
+  },
+  {
+    "text": "Investment Private Limited",
+    "type": "COMPANY",
+    "start": 223021,
+    "end": 223047
+  },
+  {
+    "text": "Rajesh Hegde",
+    "type": "PERSON",
+    "start": 223161,
+    "end": 223173
+  },
+  {
+    "text": "Vijay Hegde",
+    "type": "PERSON",
+    "start": 223181,
+    "end": 223192
+  },
+  {
+    "text": "Rohit Hegde",
+    "type": "PERSON",
+    "start": 223307,
+    "end": 223320
+  },
+  {
+    "text": "Vijay Hegde",
+    "type": "PERSON",
+    "start": 223328,
+    "end": 223341
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 223457,
+    "end": 223471
+  },
+  {
+    "text": "Rajesh Hegde",
+    "type": "PERSON",
+    "start": 223479,
+    "end": 223491
+  },
+  {
+    "text": "Rohit Hegde",
+    "type": "PERSON",
+    "start": 223496,
+    "end": 223507
+  },
+  {
+    "text": "Kushal Hegde",
+    "type": "PERSON",
+    "start": 223933,
+    "end": 223945
+  },
+  {
+    "text": "Rajesh Hegde",
+    "type": "PERSON",
+    "start": 223949,
+    "end": 223961
+  },
+  {
+    "text": "Rohit Hegde",
+    "type": "PERSON",
+    "start": 223966,
+    "end": 223977
+  },
+  {
+    "text": "Pushpa Hegde",
+    "type": "PERSON",
+    "start": 223981,
+    "end": 223993
+  },
+  {
+    "text": "Karunakar N. Bhandary,",
+    "type": "COMPANY",
+    "start": 225127,
+    "end": 225149
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 225209,
+    "end": 225230
+  },
+  {
+    "text": "Jayaram N. Shetty,",
+    "type": "COMPANY",
+    "start": 225254,
+    "end": 225272
+  },
+  {
+    "text": "Care Analytics",
+    "type": "PERSON",
+    "start": 226919,
+    "end": 226935
+  },
+  {
+    "text": "Advisory Private Limited",
+    "type": "COMPANY",
+    "start": 226944,
+    "end": 226972
+  },
+  {
+    "text": "kshinternational",
+    "type": "COMPANY",
+    "start": 227168,
+    "end": 227184
+  },
+  {
+    "text": "Market Data",
+    "type": "PERSON",
+    "start": 229001,
+    "end": 229012
+  },
+  {
+    "text": "Market Data",
+    "type": "PERSON",
+    "start": 229057,
+    "end": 229068
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 237132,
+    "end": 237153
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 237155,
+    "end": 237174
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 237176,
+    "end": 237194
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 237199,
+    "end": 237218
+  },
+  {
+    "text": "Sandesh Bhagwat",
+    "type": "PERSON",
+    "start": 237443,
+    "end": 237458
+  },
+  {
+    "text": "Amod Joshi",
+    "type": "PERSON",
+    "start": 237465,
+    "end": 237475
+  },
+  {
+    "text": "Sarthak Malvadkar",
+    "type": "PERSON",
+    "start": 237482,
+    "end": 237499
+  },
+  {
+    "text": "Ganesh Prasad",
+    "type": "PERSON",
+    "start": 237532,
+    "end": 237547
+  },
+  {
+    "text": "Material Developments",
+    "type": "PERSON",
+    "start": 238617,
+    "end": 238638
+  },
+  {
+    "text": "Specialised Magnet Winding Wire",
+    "type": "PERSON",
+    "start": 239962,
+    "end": 239999
+  },
+  {
+    "text": "Specialised Magnet Winding Wire",
+    "type": "PERSON",
+    "start": 240144,
+    "end": 240181
+  },
+  {
+    "text": "Specialised Magnet Winding Wire",
+    "type": "PERSON",
+    "start": 240869,
+    "end": 240906
+  },
+  {
+    "text": "Specialised Magnet Winding Wire",
+    "type": "PERSON",
+    "start": 241055,
+    "end": 241092
+  },
+  {
+    "text": "Paper Insulated Copper Conductor",
+    "type": "PERSON",
+    "start": 241906,
+    "end": 241944
+  },
+  {
+    "text": "Continuously Transposed Conductors",
+    "type": "PERSON",
+    "start": 241964,
+    "end": 242002
+  },
+  {
+    "text": "Round Wire Conductors",
+    "type": "PERSON",
+    "start": 242021,
+    "end": 242046
+  },
+  {
+    "text": "aluminum & copper",
+    "type": "COMPANY",
+    "start": 243422,
+    "end": 243443
+  },
+  {
+    "text": "Production Data’",
+    "type": "COMPANY",
+    "start": 244710,
+    "end": 244729
+  },
+  {
+    "text": "Mauje Palve Khurd",
+    "type": "PERSON",
+    "start": 245171,
+    "end": 245190
+  },
+  {
+    "text": "Capacity Utilization",
+    "type": "PERSON",
+    "start": 246277,
+    "end": 246297
+  },
+  {
+    "text": "Payment As",
+    "type": "PERSON",
+    "start": 256464,
+    "end": 256474
+  },
+  {
+    "text": "Provident Fund",
+    "type": "COMPANY",
+    "start": 256969,
+    "end": 256983
+  },
+  {
+    "text": "Payment As",
+    "type": "PERSON",
+    "start": 257222,
+    "end": 257232
+  },
+  {
+    "text": "Labour Welfare Fund",
+    "type": "COMPANY",
+    "start": 257647,
+    "end": 257666
+  },
+  {
+    "text": "Care Ratings Limited,",
+    "type": "COMPANY",
+    "start": 270179,
+    "end": 270200
+  },
+  {
+    "text": "Stable Long Term Bank",
+    "type": "COMPANY",
+    "start": 270358,
+    "end": 270381
+  },
+  {
+    "text": "Stable/ CARE",
+    "type": "COMPANY",
+    "start": 270409,
+    "end": 270421
+  },
+  {
+    "text": "Long Term",
+    "type": "PERSON",
+    "start": 270426,
+    "end": 270435
+  },
+  {
+    "text": "Short Term Bank",
+    "type": "COMPANY",
+    "start": 270442,
+    "end": 270459
+  },
+  {
+    "text": "N.A. Short Term Bank",
+    "type": "COMPANY",
+    "start": 270485,
+    "end": 270507
+  },
+  {
+    "text": "Stable Long Term Bank",
+    "type": "COMPANY",
+    "start": 270556,
+    "end": 270579
+  },
+  {
+    "text": "Stable/ CARE",
+    "type": "COMPANY",
+    "start": 270607,
+    "end": 270619
+  },
+  {
+    "text": "Long Term",
+    "type": "PERSON",
+    "start": 270624,
+    "end": 270633
+  },
+  {
+    "text": "Short Term Bank",
+    "type": "COMPANY",
+    "start": 270640,
+    "end": 270657
+  },
+  {
+    "text": "N.A. Short Term Bank",
+    "type": "COMPANY",
+    "start": 270683,
+    "end": 270705
+  },
+  {
+    "text": "N.A. Short Term Bank",
+    "type": "COMPANY",
+    "start": 270730,
+    "end": 270752
+  },
+  {
+    "text": "Positive Long Term Bank",
+    "type": "COMPANY",
+    "start": 270801,
+    "end": 270826
+  },
+  {
+    "text": "Long Term",
+    "type": "PERSON",
+    "start": 270876,
+    "end": 270885
+  },
+  {
+    "text": "Short Term Bank",
+    "type": "COMPANY",
+    "start": 270892,
+    "end": 270909
+  },
+  {
+    "text": "Long Term",
+    "type": "PERSON",
+    "start": 270959,
+    "end": 270968
+  },
+  {
+    "text": "Short Term Bank",
+    "type": "COMPANY",
+    "start": 270975,
+    "end": 270992
+  },
+  {
+    "text": "N.A. Short Term Bank",
+    "type": "COMPANY",
+    "start": 271018,
+    "end": 271040
+  },
+  {
+    "text": "Indian Rupees",
+    "type": "PERSON",
+    "start": 272476,
+    "end": 272491
+  },
+  {
+    "text": "Indian Rupee",
+    "type": "PERSON",
+    "start": 272750,
+    "end": 272762
+  },
+  {
+    "text": "Our Strategies",
+    "type": "PERSON",
+    "start": 281724,
+    "end": 281738
+  },
+  {
+    "text": "Individual Promoters, Senior Management,",
+    "type": "COMPANY",
+    "start": 286854,
+    "end": 286894
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 287278,
+    "end": 287301
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 287305,
+    "end": 287328
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 287332,
+    "end": 287352
+  },
+  {
+    "text": "Rakhi Girija Shetty",
+    "type": "PERSON",
+    "start": 287361,
+    "end": 287384
+  },
+  {
+    "text": "Individual Promoters, Senior Management,",
+    "type": "COMPANY",
+    "start": 287618,
+    "end": 287664
+  },
+  {
+    "text": "Our Business – Human Resources",
+    "type": "COMPANY",
+    "start": 291041,
+    "end": 291079
+  },
+  {
+    "text": "Dinesh Hirachand Munot",
+    "type": "PERSON",
+    "start": 293198,
+    "end": 293224
+  },
+  {
+    "text": "Ajay Shriram Patil",
+    "type": "PERSON",
+    "start": 293233,
+    "end": 293255
+  },
+  {
+    "text": "Merchandise Exports",
+    "type": "PERSON",
+    "start": 295200,
+    "end": 295219
+  },
+  {
+    "text": "Products Scheme",
+    "type": "PERSON",
+    "start": 295295,
+    "end": 295310
+  },
+  {
+    "text": "MIP",
+    "type": "COMPANY",
+    "start": 296340,
+    "end": 296343
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 298657,
+    "end": 298660
+  },
+  {
+    "text": "Waterloo Motors Private Limited;",
+    "type": "COMPANY",
+    "start": 298712,
+    "end": 298744
+  },
+  {
+    "text": "KSH Project Management Services Private Limited;",
+    "type": "COMPANY",
+    "start": 298750,
+    "end": 298806
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 298817,
+    "end": 298820
+  },
+  {
+    "text": "Infra Park",
+    "type": "PERSON",
+    "start": 298823,
+    "end": 298835
+  },
+  {
+    "text": "Private Limited;",
+    "type": "COMPANY",
+    "start": 298842,
+    "end": 298860
+  },
+  {
+    "text": "KSH Infra Park VI Private Limited",
+    "type": "COMPANY",
+    "start": 298870,
+    "end": 298912
+  },
+  {
+    "text": "KSH Distriparks Private Limited;",
+    "type": "COMPANY",
+    "start": 298921,
+    "end": 298959
+  },
+  {
+    "text": "KSH Integrated Logistics Private Limited;",
+    "type": "COMPANY",
+    "start": 298969,
+    "end": 299018
+  },
+  {
+    "text": "Kushal Motors",
+    "type": "PERSON",
+    "start": 299029,
+    "end": 299044
+  },
+  {
+    "text": "Electricals Private Limited;",
+    "type": "COMPANY",
+    "start": 299051,
+    "end": 299079
+  },
+  {
+    "text": "Waterloo Industrial Park I Private Limited",
+    "type": "COMPANY",
+    "start": 299087,
+    "end": 299130
+  },
+  {
+    "text": "Waterloo Industrial Park II Private Limited",
+    "type": "COMPANY",
+    "start": 299136,
+    "end": 299180
+  },
+  {
+    "text": "Waterloo Industrial Park III Private Limited",
+    "type": "COMPANY",
+    "start": 299185,
+    "end": 299230
+  },
+  {
+    "text": "Waterloo Industrial Park IV Private Limited",
+    "type": "COMPANY",
+    "start": 299236,
+    "end": 299280
+  },
+  {
+    "text": "Waterloo Industrial Park V Private Limited",
+    "type": "COMPANY",
+    "start": 299287,
+    "end": 299330
+  },
+  {
+    "text": "Waterloo Industrial Park VI Private Limited",
+    "type": "COMPANY",
+    "start": 299338,
+    "end": 299382
+  },
+  {
+    "text": "Waterloo Industrial Park VIII Private Limited",
+    "type": "COMPANY",
+    "start": 299389,
+    "end": 299443
+  },
+  {
+    "text": "Waterloo Industrial Park IX Private Limited",
+    "type": "COMPANY",
+    "start": 299453,
+    "end": 299507
+  },
+  {
+    "text": "Waterloo Industrial Park IX B Private Limited",
+    "type": "COMPANY",
+    "start": 299518,
+    "end": 299568
+  },
+  {
+    "text": "Waterloo Industrial Park IX A Private Limited",
+    "type": "COMPANY",
+    "start": 299576,
+    "end": 299622
+  },
+  {
+    "text": "KSH Infra Park IV Private Limited",
+    "type": "COMPANY",
+    "start": 299635,
+    "end": 299668
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 299965,
+    "end": 299968
+  },
+  {
+    "text": "KSH”",
+    "type": "COMPANY",
+    "start": 300063,
+    "end": 300068
+  },
+  {
+    "text": "KSH”",
+    "type": "COMPANY",
+    "start": 300262,
+    "end": 300267
+  },
+  {
+    "text": "Our Business – Insurance",
+    "type": "COMPANY",
+    "start": 303100,
+    "end": 303126
+  },
+  {
+    "text": "Insurance Coverage",
+    "type": "PERSON",
+    "start": 303775,
+    "end": 303794
+  },
+  {
+    "text": "Average Percentage",
+    "type": "PERSON",
+    "start": 303819,
+    "end": 303839
+  },
+  {
+    "text": "Freehold Land",
+    "type": "PERSON",
+    "start": 304345,
+    "end": 304358
+  },
+  {
+    "text": "Leasehold Land",
+    "type": "PERSON",
+    "start": 304367,
+    "end": 304383
+  },
+  {
+    "text": "Marine Insurance, Transit Insurance",
+    "type": "COMPANY",
+    "start": 304539,
+    "end": 304580
+  },
+  {
+    "text": "Burglary Policies",
+    "type": "PERSON",
+    "start": 304589,
+    "end": 304608
+  },
+  {
+    "text": "Insurance Claim",
+    "type": "PERSON",
+    "start": 305763,
+    "end": 305778
+  },
+  {
+    "text": "Open bank",
+    "type": "COMPANY",
+    "start": 306724,
+    "end": 306735
+  },
+  {
+    "text": "Our Management –",
+    "type": "COMPANY",
+    "start": 308557,
+    "end": 308574
+  },
+  {
+    "text": "Cloud Services",
+    "type": "COMPANY",
+    "start": 315498,
+    "end": 315514
+  },
+  {
+    "text": "Cloud Services",
+    "type": "COMPANY",
+    "start": 315636,
+    "end": 315650
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 322657,
+    "end": 322678
+  },
+  {
+    "text": "Pushpa Hegde",
+    "type": "PERSON",
+    "start": 322698,
+    "end": 322710
+  },
+  {
+    "text": "Kushal Subbayya Hegde",
+    "type": "PERSON",
+    "start": 328068,
+    "end": 328093
+  },
+  {
+    "text": "Pushpa Kushal Hegde",
+    "type": "PERSON",
+    "start": 328151,
+    "end": 328174
+  },
+  {
+    "text": "Rajesh Kushal Hegde",
+    "type": "PERSON",
+    "start": 328231,
+    "end": 328254
+  },
+  {
+    "text": "Rohit Kushal Hegde",
+    "type": "PERSON",
+    "start": 328310,
+    "end": 328332
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 329881,
+    "end": 329898
+  },
+  {
+    "text": "Retail Individual Investors,",
+    "type": "COMPANY",
+    "start": 329939,
+    "end": 329967
+  },
+  {
+    "text": "Bid Lot",
+    "type": "PERSON",
+    "start": 330203,
+    "end": 330210
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 331791,
+    "end": 331807
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 331910,
+    "end": 331924
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 332051,
+    "end": 332065
+  },
+  {
+    "text": "Anchor Investors),",
+    "type": "COMPANY",
+    "start": 332714,
+    "end": 332734
+  },
+  {
+    "text": "Mutual Fund",
+    "type": "COMPANY",
+    "start": 333040,
+    "end": 333053
+  },
+  {
+    "text": "Anchor Investors)",
+    "type": "COMPANY",
+    "start": 333176,
+    "end": 333193
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 334069,
+    "end": 334072
+  },
+  {
+    "text": "KSH",
+    "type": "COMPANY",
+    "start": 334426,
+    "end": 334429
+  },
+  {
+    "text": "Green Building Block",
+    "type": "PERSON",
+    "start": 334961,
+    "end": 334981
+  },
+  {
+    "text": "1 st and 2 nd floor",
+    "type": "ADDRESS",
+    "start": 334984,
+    "end": 335005
+  },
+  {
+    "text": "Near Akurdi Railway Station Akurdi",
+    "type": "PERSON",
+    "start": 335006,
+    "end": 335046
+  },
+  {
+    "text": "Name Designation",
+    "type": "PERSON",
+    "start": 335288,
+    "end": 335304
+  },
+  {
+    "text": "Address Kushal Subbayya Hegde Chairman",
+    "type": "PERSON",
+    "start": 335309,
+    "end": 335351
+  },
+  {
+    "text": "Deccan Gymkhana Society,",
+    "type": "COMPANY",
+    "start": 335424,
+    "end": 335452
+  },
+  {
+    "text": "Buena Monte",
+    "type": "PERSON",
+    "start": 335637,
+    "end": 335650
+  },
+  {
+    "text": "Pushpakamal Apartment",
+    "type": "PERSON",
+    "start": 335809,
+    "end": 335830
+  },
+  {
+    "text": "Deccan Gymkhana Society,",
+    "type": "COMPANY",
+    "start": 336045,
+    "end": 336073
+  },
+  {
+    "text": "Pratik Bunglow",
+    "type": "PERSON",
+    "start": 336269,
+    "end": 336285
+  },
+  {
+    "text": "Sahara Hotel,",
+    "type": "COMPANY",
+    "start": 336325,
+    "end": 336340
+  },
+  {
+    "text": "Gopalkrupa Apartment",
+    "type": "PERSON",
+    "start": 336465,
+    "end": 336487
+  },
+  {
+    "text": "Minal Residency",
+    "type": "PERSON",
+    "start": 336641,
+    "end": 336656
+  },
+  {
+    "text": "Abhimanshree Society,",
+    "type": "COMPANY",
+    "start": 336767,
+    "end": 336790
+  },
+  {
+    "text": "Sarthak.malvadkar@kshinterantional.com",
+    "type": "EMAIL",
+    "start": 337357,
+    "end": 337395
+  },
+  {
+    "text": "Anchor Investors,",
+    "type": "COMPANY",
+    "start": 337970,
+    "end": 337989
+  },
+  {
+    "text": "Designated Intermediary",
+    "type": "PERSON",
+    "start": 338095,
+    "end": 338120
+  },
+  {
+    "text": "First Bidder",
+    "type": "PERSON",
+    "start": 338256,
+    "end": 338268
+  },
+  {
+    "text": "Designated Intermediary",
+    "type": "PERSON",
+    "start": 338714,
+    "end": 338739
+  },
+  {
+    "text": "Designated Intermediary",
+    "type": "PERSON",
+    "start": 338906,
+    "end": 338929
+  },
+  {
+    "text": "First Bidder",
+    "type": "PERSON",
+    "start": 339517,
+    "end": 339529
+  },
+  {
+    "text": "Book Running Lead Managers Nuvama Wealth Management Limited",
+    "type": "COMPANY",
+    "start": 339907,
+    "end": 339978
+  },
+  {
+    "text": "ksh.ipo@nuvama.com",
+    "type": "EMAIL",
+    "start": 340170,
+    "end": 340188
+  },
+  {
+    "text": "customerservice.mb@nuvama.com",
+    "type": "EMAIL",
+    "start": 340251,
+    "end": 340280
+  },
+  {
+    "text": "Lokesh Shah",
+    "type": "PERSON",
+    "start": 340302,
+    "end": 340315
+  },
+  {
+    "text": "Soumavo Sarkar",
+    "type": "PERSON",
+    "start": 340319,
+    "end": 340335
+  },
+  {
+    "text": "INM000013004 ICICI Securities Limited",
+    "type": "COMPANY",
+    "start": 340365,
+    "end": 340402
+  },
+  {
+    "text": "+91 22 6807 7100",
+    "type": "PHONE",
+    "start": 340515,
+    "end": 340531
+  },
+  {
+    "text": "ksh@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 340542,
+    "end": 340565
+  },
+  {
+    "text": "customercare@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 340635,
+    "end": 340667
+  },
+  {
+    "text": "Kishan Rastogi",
+    "type": "PERSON",
+    "start": 340689,
+    "end": 340705
+  },
+  {
+    "text": "Abhijit Diwan",
+    "type": "PERSON",
+    "start": 340706,
+    "end": 340721
+  },
+  {
+    "text": "000011179",
+    "type": "PHONE",
+    "start": 340755,
+    "end": 340764
+  },
+  {
+    "text": "Monitoring Agency,",
+    "type": "COMPANY",
+    "start": 342069,
+    "end": 342087
+  },
+  {
+    "text": "Advertising agency",
+    "type": "COMPANY",
+    "start": 342166,
+    "end": 342186
+  },
+  {
+    "text": "International Institutional Marketing",
+    "type": "COMPANY",
+    "start": 342399,
+    "end": 342440
+  },
+  {
+    "text": "Institutional Marketing",
+    "type": "COMPANY",
+    "start": 342700,
+    "end": 342725
+  },
+  {
+    "text": "Finalising media,",
+    "type": "COMPANY",
+    "start": 343071,
+    "end": 343090
+  },
+  {
+    "text": "Retail Marketing",
+    "type": "PERSON",
+    "start": 343322,
+    "end": 343340
+  },
+  {
+    "text": "Formulating marketing",
+    "type": "COMPANY",
+    "start": 343397,
+    "end": 343420
+  },
+  {
+    "text": "Finalizing Media",
+    "type": "COMPANY",
+    "start": 343474,
+    "end": 343492
+  },
+  {
+    "text": "Sec Syndicate Members Nuvama Wealth Management Limited",
+    "type": "COMPANY",
+    "start": 345045,
+    "end": 345107
+  },
+  {
+    "text": "ksh.ipo@nuvama.com",
+    "type": "EMAIL",
+    "start": 345298,
+    "end": 345316
+  },
+  {
+    "text": "prakash.boricha@nuvama.com",
+    "type": "EMAIL",
+    "start": 345320,
+    "end": 345346
+  },
+  {
+    "text": "sheetal.parab@nuvama.com",
+    "type": "EMAIL",
+    "start": 345356,
+    "end": 345380
+  },
+  {
+    "text": "Prakash Boricha",
+    "type": "PERSON",
+    "start": 345428,
+    "end": 345445
+  },
+  {
+    "text": "INZ000166136 ICICI Securities Limited",
+    "type": "COMPANY",
+    "start": 345478,
+    "end": 345515
+  },
+  {
+    "text": "+91 22 6807 7100",
+    "type": "PHONE",
+    "start": 345628,
+    "end": 345644
+  },
+  {
+    "text": "ksh@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 345655,
+    "end": 345678
+  },
+  {
+    "text": "customercare@icicisecurities.com",
+    "type": "EMAIL",
+    "start": 345751,
+    "end": 345783
+  },
+  {
+    "text": "Kishan Rastogi",
+    "type": "PERSON",
+    "start": 345805,
+    "end": 345821
+  },
+  {
+    "text": "Abhijit Diwan",
+    "type": "PERSON",
+    "start": 345822,
+    "end": 345837
+  },
+  {
+    "text": "000011179",
+    "type": "PHONE",
+    "start": 345871,
+    "end": 345880
+  },
+  {
+    "text": "Indian Law Trilegal One World Centre",
+    "type": "PERSON",
+    "start": 345930,
+    "end": 345973
+  },
+  {
+    "text": "Senapati Bapat Marg",
+    "type": "PERSON",
+    "start": 346010,
+    "end": 346033
+  },
+  {
+    "text": "Lower Parel",
+    "type": "PERSON",
+    "start": 346037,
+    "end": 346050
+  },
+  {
+    "text": "ipo@trilegal.com",
+    "type": "EMAIL",
+    "start": 346108,
+    "end": 346124
+  },
+  {
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "type": "EMAIL",
+    "start": 346437,
+    "end": 346474
+  },
+  {
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "type": "EMAIL",
+    "start": 346509,
+    "end": 346546
+  },
+  {
+    "text": "Shanti Gopalkrishnan",
+    "type": "PERSON",
+    "start": 346598,
+    "end": 346618
+  },
+  {
+    "text": "000004058",
+    "type": "PHONE",
+    "start": 346652,
+    "end": 346661
+  },
+  {
+    "text": "OPS Department –",
+    "type": "COMPANY",
+    "start": 346893,
+    "end": 346913
+  },
+  {
+    "text": "Think Techno Campus",
+    "type": "PERSON",
+    "start": 346924,
+    "end": 346943
+  },
+  {
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 347149,
+    "end": 347178
+  },
+  {
+    "text": "sachin.gawade@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 347182,
+    "end": 347208
+  },
+  {
+    "text": "eric.bacha@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 347211,
+    "end": 347234
+  },
+  {
+    "text": "tushar.gavankar@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 347239,
+    "end": 347267
+  },
+  {
+    "text": "pravin.teli2@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 347278,
+    "end": 347303
+  },
+  {
+    "text": "Eric Bacha",
+    "type": "PERSON",
+    "start": 347355,
+    "end": 347367
+  },
+  {
+    "text": "Sachin Gawade",
+    "type": "PERSON",
+    "start": 347371,
+    "end": 347386
+  },
+  {
+    "text": "Pravin Teli",
+    "type": "PERSON",
+    "start": 347390,
+    "end": 347403
+  },
+  {
+    "text": "Siddharth Jadhav",
+    "type": "PERSON",
+    "start": 347407,
+    "end": 347425
+  },
+  {
+    "text": "Tushar Gavankar",
+    "type": "PERSON",
+    "start": 347429,
+    "end": 347446
+  },
+  {
+    "text": "022-68052182",
+    "type": "PHONE",
+    "start": 347702,
+    "end": 347714
+  },
+  {
+    "text": "Ipocmg@icicibank.com",
+    "type": "EMAIL",
+    "start": 347724,
+    "end": 347744
+  },
+  {
+    "text": "Varun Badai",
+    "type": "PERSON",
+    "start": 347794,
+    "end": 347805
+  },
+  {
+    "text": "L65190GJ1994PLC021012 HDFC Bank Limited HDFC Bank Limited",
+    "type": "COMPANY",
+    "start": 347854,
+    "end": 347920
+  },
+  {
+    "text": "OPS Department –",
+    "type": "COMPANY",
+    "start": 347927,
+    "end": 347947
+  },
+  {
+    "text": "Think Techno Campus",
+    "type": "PERSON",
+    "start": 347958,
+    "end": 347977
+  },
+  {
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 348183,
+    "end": 348212
+  },
+  {
+    "text": "sachin.gawade@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 348216,
+    "end": 348242
+  },
+  {
+    "text": "eric.bacha@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 348245,
+    "end": 348268
+  },
+  {
+    "text": "tushar.gavankar@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 348273,
+    "end": 348301
+  },
+  {
+    "text": "pravin.teli2@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 348312,
+    "end": 348337
+  },
+  {
+    "text": "Eric Bacha",
+    "type": "PERSON",
+    "start": 348389,
+    "end": 348401
+  },
+  {
+    "text": "Sachin Gawade",
+    "type": "PERSON",
+    "start": 348405,
+    "end": 348420
+  },
+  {
+    "text": "Pravin Teli",
+    "type": "PERSON",
+    "start": 348424,
+    "end": 348437
+  },
+  {
+    "text": "Siddharth Jadhav",
+    "type": "PERSON",
+    "start": 348441,
+    "end": 348459
+  },
+  {
+    "text": "Tushar Gavankar",
+    "type": "PERSON",
+    "start": 348463,
+    "end": 348480
+  },
+  {
+    "text": "L65920MH1994PLC080618 Sponsor Banks ICICI Bank Limited",
+    "type": "COMPANY",
+    "start": 348529,
+    "end": 348589
+  },
+  {
+    "text": "022-68052182",
+    "type": "PHONE",
+    "start": 348720,
+    "end": 348732
+  },
+  {
+    "text": "Ipocmg@icicibank.com",
+    "type": "EMAIL",
+    "start": 348742,
+    "end": 348762
+  },
+  {
+    "text": "Varun Badai",
+    "type": "PERSON",
+    "start": 348812,
+    "end": 348823
+  },
+  {
+    "text": "L65190GJ1994PLC021012 HDFC Bank Limited HDFC Bank Limited",
+    "type": "COMPANY",
+    "start": 348872,
+    "end": 348938
+  },
+  {
+    "text": "OPS Department –",
+    "type": "COMPANY",
+    "start": 348945,
+    "end": 348965
+  },
+  {
+    "text": "Think Techno Campus",
+    "type": "PERSON",
+    "start": 348976,
+    "end": 348995
+  },
+  {
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 349201,
+    "end": 349230
+  },
+  {
+    "text": "sachin.gawade@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 349234,
+    "end": 349260
+  },
+  {
+    "text": "eric.bacha@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 349263,
+    "end": 349286
+  },
+  {
+    "text": "tushar.gavankar@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 349291,
+    "end": 349319
+  },
+  {
+    "text": "pravin.teli2@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 349330,
+    "end": 349355
+  },
+  {
+    "text": "Eric Bacha",
+    "type": "PERSON",
+    "start": 349407,
+    "end": 349419
+  },
+  {
+    "text": "Sachin Gawade",
+    "type": "PERSON",
+    "start": 349423,
+    "end": 349438
+  },
+  {
+    "text": "Pravin Teli",
+    "type": "PERSON",
+    "start": 349442,
+    "end": 349455
+  },
+  {
+    "text": "Siddharth Jadhav",
+    "type": "PERSON",
+    "start": 349459,
+    "end": 349477
+  },
+  {
+    "text": "Tushar Gavankar",
+    "type": "PERSON",
+    "start": 349481,
+    "end": 349498
+  },
+  {
+    "text": "Registered Broker",
+    "type": "PERSON",
+    "start": 350070,
+    "end": 350087
+  },
+  {
+    "text": "Specified Locations",
+    "type": "PERSON",
+    "start": 351303,
+    "end": 351322
+  },
+  {
+    "text": "Specified Locations",
+    "type": "PERSON",
+    "start": 351754,
+    "end": 351773
+  },
+  {
+    "text": "Broker Centres",
+    "type": "PERSON",
+    "start": 352153,
+    "end": 352167
+  },
+  {
+    "text": "Experts Except",
+    "type": "PERSON",
+    "start": 353379,
+    "end": 353393
+  },
+  {
+    "text": "Kirtane & Pandit,",
+    "type": "COMPANY",
+    "start": 353609,
+    "end": 353630
+  },
+  {
+    "text": "U.S. Securities",
+    "type": "COMPANY",
+    "start": 354663,
+    "end": 354678
+  },
+  {
+    "text": "Lalit Muljibhai Sarvaiya",
+    "type": "PERSON",
+    "start": 354756,
+    "end": 354782
+  },
+  {
+    "text": "Kanj & Co.",
+    "type": "COMPANY",
+    "start": 355419,
+    "end": 355433
+  },
+  {
+    "text": "Kirtane & Pandit,",
+    "type": "COMPANY",
+    "start": 355908,
+    "end": 355929
+  },
+  {
+    "text": "parag.pansare@kirtanepandit.com",
+    "type": "EMAIL",
+    "start": 356115,
+    "end": 356146
+  },
+  {
+    "text": "Kirtane & Pandit,",
+    "type": "COMPANY",
+    "start": 356523,
+    "end": 356544
+  },
+  {
+    "text": "HDFC Limited",
+    "type": "COMPANY",
+    "start": 356645,
+    "end": 356659
+  },
+  {
+    "text": "parag.pansare@kirtanepandit.com",
+    "type": "EMAIL",
+    "start": 356718,
+    "end": 356749
+  },
+  {
+    "text": "Tare & Associates",
+    "type": "COMPANY",
+    "start": 356964,
+    "end": 356981
+  },
+  {
+    "text": "hingnetare@gmail.com",
+    "type": "EMAIL",
+    "start": 357079,
+    "end": 357099
+  },
+  {
+    "text": "8 th Floor, Onyx Tower North Main Road",
+    "type": "ADDRESS",
+    "start": 357295,
+    "end": 357339
+  },
+  {
+    "text": "hitesh.ramani@citi.com",
+    "type": "EMAIL",
+    "start": 357533,
+    "end": 357555
+  },
+  {
+    "text": "Export-Import Bank",
+    "type": "COMPANY",
+    "start": 357556,
+    "end": 357576
+  },
+  {
+    "text": "+91 20 2640 3100",
+    "type": "PHONE",
+    "start": 357766,
+    "end": 357782
+  },
+  {
+    "text": "pro@eximbankindia.in",
+    "type": "EMAIL",
+    "start": 357860,
+    "end": 357880
+  },
+  {
+    "text": "IndusInd Bank Limited",
+    "type": "COMPANY",
+    "start": 357881,
+    "end": 357902
+  },
+  {
+    "text": "2401 Gen Thimmayya Road",
+    "type": "ADDRESS",
+    "start": 357904,
+    "end": 357933
+  },
+  {
+    "text": "+91-20-26234000",
+    "type": "PHONE",
+    "start": 358000,
+    "end": 358015
+  },
+  {
+    "text": "sharmila.joshi@indusind.com",
+    "type": "EMAIL",
+    "start": 358091,
+    "end": 358118
+  },
+  {
+    "text": "ICICI Bank Limited ICICI Bank,",
+    "type": "COMPANY",
+    "start": 358119,
+    "end": 358155
+  },
+  {
+    "text": "Tanishq Showroom",
+    "type": "PERSON",
+    "start": 358212,
+    "end": 358228
+  },
+  {
+    "text": "30 Bund Garden Road",
+    "type": "ADDRESS",
+    "start": 358238,
+    "end": 358261
+  },
+  {
+    "text": "91 8879770456",
+    "type": "PHONE",
+    "start": 358319,
+    "end": 358332
+  },
+  {
+    "text": "cherag.gyara@icicibank.com",
+    "type": "EMAIL",
+    "start": 358406,
+    "end": 358432
+  },
+  {
+    "text": "HDFC Bank Limited",
+    "type": "COMPANY",
+    "start": 358433,
+    "end": 358454
+  },
+  {
+    "text": "+91 20 6769 4648",
+    "type": "PHONE",
+    "start": 358562,
+    "end": 358578
+  },
+  {
+    "text": "manisha.shukla@hdfcbank.com",
+    "type": "EMAIL",
+    "start": 358657,
+    "end": 358684
+  },
+  {
+    "text": "+91 20 2561 8211",
+    "type": "PHONE",
+    "start": 358847,
+    "end": 358863
+  },
+  {
+    "text": "rm6.ifbpune@sbi.co.in",
+    "type": "EMAIL",
+    "start": 358939,
+    "end": 358960
+  },
+  {
+    "text": "The Federal Bank Limited",
+    "type": "COMPANY",
+    "start": 358961,
+    "end": 358985
+  },
+  {
+    "text": "Sancheti Hospital Shivajinagar",
+    "type": "PERSON",
+    "start": 359028,
+    "end": 359058
+  },
+  {
+    "text": "ashishmp@federalbank.co.in",
+    "type": "EMAIL",
+    "start": 359222,
+    "end": 359248
+  },
+  {
+    "text": "Bajaj Finance Limited",
+    "type": "COMPANY",
+    "start": 359249,
+    "end": 359274
+  },
+  {
+    "text": "+91 20 7157 6403",
+    "type": "PHONE",
+    "start": 359362,
+    "end": 359378
+  },
+  {
+    "text": "anand.soni@bajajfinserv.in",
+    "type": "EMAIL",
+    "start": 359453,
+    "end": 359479
+  },
+  {
+    "text": "Monitoring Agency As",
+    "type": "PERSON",
+    "start": 359743,
+    "end": 359765
+  },
+  {
+    "text": "CARE Ratings Limited",
+    "type": "COMPANY",
+    "start": 359902,
+    "end": 359923
+  },
+  {
+    "text": "Debenture Trustee As",
+    "type": "PERSON",
+    "start": 360276,
+    "end": 360298
+  },
+  {
+    "text": "Revision Forms",
+    "type": "PERSON",
+    "start": 361757,
+    "end": 361773
+  },
+  {
+    "text": "Bid Lot",
+    "type": "PERSON",
+    "start": 361846,
+    "end": 361853
+  },
+  {
+    "text": "Institutional Investors",
+    "type": "COMPANY",
+    "start": 363322,
+    "end": 363345
+  },
+  {
+    "text": "Anchor Investors)",
+    "type": "COMPANY",
+    "start": 364282,
+    "end": 364301
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 364632,
+    "end": 364646
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 364757,
+    "end": 364773
+  },
+  {
+    "text": "Life Insurance",
+    "type": "COMPANY",
+    "start": 364918,
+    "end": 364932
+  },
+  {
+    "text": "F) SECURITIES",
+    "type": "COMPANY",
+    "start": 370279,
+    "end": 370292
+  }
+]
