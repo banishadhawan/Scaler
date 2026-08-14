@@ -106,3 +106,20 @@ def test_non_pii_preservation():
     text = "Offer of up to 4,200.00 million Equity Shares under SEBI ICDR Regulations."
     detections = detector.detect(text)
     assert len(detections) == 0
+
+
+def test_negative_cases():
+    detector = Detector()
+    negatives = [
+        "Registered Office",
+        "Senior Management",
+        "3rd Floor",
+        "2026",
+        "₹50,000",
+        "Order 12345",
+        "Ticket 12345"
+    ]
+    for text in negatives:
+        detections = detector.detect(text)
+        assert len(detections) == 0, f"Expected no detections for '{text}', but got {detections}"
+
