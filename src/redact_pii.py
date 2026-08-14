@@ -1,7 +1,23 @@
 import os
 import docx
+from docx.text.run import Run
 from src.detector import Detector
 from src.replacer import Replacer, PiiTypes
+
+
+def get_all_runs(element, parent_paragraph) -> list:
+    """
+    Recursively finds all <w:r> run elements in the paragraph XML tree,
+    ensuring we capture runs nested in hyperlinks, simple fields, or smart tags
+    in the correct document order.
+    """
+    runs = []
+    for child in element:
+        if child.tag.endswith('}r'):
+            runs.append(Run(child, parent_paragraph))
+        else:
+            runs.extend(get_all_runs(child, parent_paragraph))
+    return runs
 
 
 def redact_docx(input_path: str, output_path: str) -> dict:
@@ -36,8 +52,11 @@ def redact_docx(input_path: str, output_path: str) -> dict:
         for m in matches:
             counts[m['type']] += 1
             
-        # Fallback if paragraph has text but no runs (uncommon in docx but possible)
-        if not p.runs:
+        # Retrieve all runs recursively (including nested runs like hyperlinks)
+        p_runs = get_all_runs(p._element, p)
+            
+        # Fallback if paragraph has text but no runs
+        if not p_runs:
             new_text = p.text
             for m in sorted(matches, key=lambda x: x['start'], reverse=True):
                 start, end = m['start'], m['end']
@@ -47,9 +66,9 @@ def redact_docx(input_path: str, output_path: str) -> dict:
             p.text = new_text
             return
 
-        # Build character-to-run map for precise run edits (preserves formatting)
+        # Build character-to-run map for precise run edits
         char_map = []
-        for run in p.runs:
+        for run in p_runs:
             for i, char in enumerate(run.text):
                 char_map.append({
                     'run': run,
